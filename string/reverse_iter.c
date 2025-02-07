@@ -48,6 +48,3 @@ void reverse_iterative( char str[], int l)
 
       	  // Assign the stored character to the opposite position
       	  str[l - i - 1] = temp;
-  		}
-
-}
